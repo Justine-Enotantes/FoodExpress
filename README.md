@@ -14,4 +14,7 @@ Welcome to **FoodExpress**, a seamless food ordering web application built with 
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/Justine-Enotantes/FoodExpress.git
-
+```
+2️⃣ Set Up Database
+- Import the foodexpress_db.sql file into MySQL.
+- Configure database credentials in config.php
